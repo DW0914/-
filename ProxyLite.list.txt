@@ -469,3 +469,27 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
+
+#LG
+DOMAIN-SUFFIX,lg.com
+
+#V2EX
+DOMAIN-SUFFIX,v2ex.com
+
+#samsung
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsung.org
+
+#AppleNews
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN,gspe1-ssl.ls.apple.com
+
+#XBox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,gamepass.com
