@@ -493,3 +493,6 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
+
+#Hitun
+DOMAIN-SUFFIX,hitun.io
