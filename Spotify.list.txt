@@ -1,0 +1,42 @@
+# Spotify
+USER-AGENT,Spotify*
+DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+
+# Apple Music
+DOMAIN-KEYWORD,-applemusic-com
+DOMAIN-KEYWORD,music.apple.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,itsliveradio.apple.com
+DOMAIN-SUFFIX,aodp-ssl.apple.com
+DOMAIN-SUFFIX,video-ssl.itunes.apple.com
+DOMAIN-SUFFIX,mvod.itunes.apple.com
+DOMAIN-SUFFIX,hls-amt.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,audio.itunes.apple.com
+
+# Pandora
+USER-AGENT,Pandora*
+DOMAIN-SUFFIX,pandora.com
+
+# TIDAL
+USER-AGENT,TIDAL*
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+
+# YouTubeMusic
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
+DOMAIN,music.youtube.com
+
