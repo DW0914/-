@@ -472,6 +472,15 @@ DOMAIN-SUFFIX,ocnttv.com
 
 #LG
 DOMAIN-SUFFIX,lg.com
+DOMAIN-SUFFIX,lge.com
+DOMAIN-SUFFIX,lgappstv.com
+DOMAIN-SUFFIX,lgtvcommon.com
+DOMAIN-SUFFIX,lgtvsdp.com
+DOMAIN-SUFFIX,lgsmartad.com
+DOMAIN-SUFFIX,lgeapi.com
+DOMAIN-SUFFIX,lgsmartad.com
+DOMAIN-SUFFIX,bidr.io
+
 
 #V2EX
 DOMAIN-SUFFIX,v2ex.com
