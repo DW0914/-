@@ -520,6 +520,10 @@ DOMAIN-SUFFIX,rarbg.to
 #WPZYK
 DOMAIN-SUFFIX,wpzyk.cn
 
+#Linkedin
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,linkedin.cn
+
 payload:
 # > iCloud Private Relay
 https://developer.apple.com/cn/support/prepare-your-network-for-icloud-private-relay/
