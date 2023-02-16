@@ -520,3 +520,11 @@ DOMAIN-SUFFIX,rarbg.to
 #WPZYK
 DOMAIN-SUFFIX,wpzyk.cn
 
+payload:
+# > iCloud Private Relay
+https://developer.apple.com/cn/support/prepare-your-network-for-icloud-private-relay/
+https://mask-api.icloud.com/egress-ip-ranges.csv
+
+# Allow for network traffic audits
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-api.fe.apple-dns.net
